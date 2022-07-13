@@ -1,5 +1,5 @@
 # SoccerConsoleAPI
-This project is made to interact with the console. The inputs are placed in a GET to API-Football to get the desired information from each category.
+This project is made to interact with the console. The inputs are placed in a GET to API-Football to get the desired information from each category. The documentation for this API can be found here https://www.api-football.com/documentation-v3#section/Introduction
 
 ![Screenshot 2022-07-13 090100](https://user-images.githubusercontent.com/104876738/178739881-a2e8b929-dcd2-49d9-b81a-4399a411a8b3.png)
 
